@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.ma02.core.enumerations"},{"l":"edu.ma02.core.exceptions"},{"l":"edu.ma02.core.interfaces"},{"l":"edu.ma02.dashboards"},{"l":"edu.ma02.io.interfaces"}];updateSearchResults();
