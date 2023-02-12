@@ -19,7 +19,7 @@
 
 <h2>How to run</h2>
 
-To run the project, you need to install Java 13 and NetBeans. After that, simply open the folder PP_AC_8200591_8200595 in NetBeans and run it. That's all you need to do to get started with this project.
+To run the project, you need to install [Java 13](https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html) and [NetBeans](https://netbeans.apache.org). After that, simply open the folder PP_AC_8200591_8200595 in NetBeans and run it. That's all you need to do to get started with this project.
 
 ---
 
