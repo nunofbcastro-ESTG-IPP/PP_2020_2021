@@ -1,10 +1,10 @@
 <h1 align="center">Practical Work on Paradigmas de Programação (Programming Paradigms)</h1>
 
 <p>
-  <img src="http://img.shields.io/static/v1?label=School%20year&message=2020/2021&color=GREEN"/>
-  <img src="http://img.shields.io/static/v1?label=Discipline&message=PP&color=GREEN"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=School%20year&message=2020/2021&color=sucess"/>
+  <img src="http://img.shields.io/static/v1?style=for-the-badge&label=Discipline&message=PP&color=sucess"/>
   <a href="https://github.com/nunofbcastro-ESTG-IPP/PP/tree/main/Doc/Utterance" target="_blank">
-    <img src="https://img.shields.io/badge/-Utterance-grey"/>
+    <img src="https://img.shields.io/badge/-Utterance-grey?style=for-the-badge"/>
   </a>
 </p>
 
@@ -12,10 +12,14 @@
 
 <h2>Languages</h2>
 <p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"> 
-  </a> 
+  	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
 </p>
+
+---
+
+<h2>How to run</h2>
+
+To run the project, you need to install Java 13 and NetBeans. After that, simply open the folder PP_AC_8200591_8200595 in NetBeans and run it. That's all you need to do to get started with this project.
 
 ---
 
